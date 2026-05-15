@@ -41,8 +41,6 @@ MERN Stack Developer | Next.js Developer | TypeScript Enthusiast
 ---
 
 # 🚀 Tech Stack
-
-## 🌐 Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -61,68 +59,19 @@ MERN Stack Developer | Next.js Developer | TypeScript Enthusiast
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
----
-
-# 📌 Featured Projects
-
-## 📊 ExcelAnalytics
-A full-stack MERN platform where users can:
-- Upload Excel files
-- Generate 2D/3D charts
-- Analyze data visually
-- Download graphs
-- View upload history
-- Manage dashboards
-
 ### Tech Used:
-React.js, Next.js, TypeScript, Node.js, MongoDB, Tailwind CSS
-
----
-
-## 🛒 FireCommerce
-E-commerce application with:
-- Authentication
-- Cart functionality
-- Redux Toolkit
-- Redux Saga
-- Responsive UI
-
-### Tech Used:
-Next.js, TypeScript, Redux Toolkit, Express.js, MongoDB
-
----
-
-## 🎓 Student Care
-University searching platform for students built using:
-- HTML
-- CSS
-- Responsive Design
+React.js, Next.js, Javascript, TypeScript, Node.js, Express.js, MongoDB, Mongoose,  Redux Toolkit, Zustand, Tailwind Css
 
 ---
 
 # 📚 Currently Learning
 
 - Advanced Authentication Systems
-- Refresh Token Flow
 - Redux Saga Deep Dive
 - Backend Architecture
+- Web Socket
+- MultiLangunage
 - Scalable MERN Applications
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
