@@ -12,7 +12,7 @@ MERN Stack Developer | Next.js Developer | TypeScript Enthusiast
 
 # 💫 About Me
 
-💻 Passionate Full Stack MERN Developer from India  
+💻 Passionate Full Stack MERN Developer from Delhi  
 🎓 MCA Graduate from IGNOU  
 ⚡ Skilled in building responsive and scalable web applications  
 🚀 Currently learning advanced backend development & authentication systems  
@@ -36,6 +36,10 @@ MERN Stack Developer | Next.js Developer | TypeScript Enthusiast
 <a href="mailto:azamnoor698@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<a href="https://noorazam.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 </p>
 
 ---
@@ -51,13 +55,17 @@ MERN Stack Developer | Next.js Developer | TypeScript Enthusiast
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
 ## 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB Compass](https://img.shields.io/badge/MongoDB_Compass-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Tech Used:
 React.js, Next.js, Javascript, TypeScript, Node.js, Express.js, MongoDB, Mongoose,  Redux Toolkit, Zustand, Tailwind Css
