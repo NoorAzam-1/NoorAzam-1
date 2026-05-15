@@ -86,10 +86,56 @@ React.js, Next.js, Javascript, TypeScript, Node.js, Express.js, MongoDB, Mongoos
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=NoorAzam-1&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=NoorAzam-1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4" 
+  />
 </p>
 
 ---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=NoorAzam-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+  />
+
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoorAzam-1&layout=compact&theme=tokyonight&hide_border=true" 
+  />
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=NoorAzam-1&theme=tokyonight&hide_border=true" 
+  />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=NoorAzam-1&theme=tokyo-night&hide_border=true" 
+  />
+</p>
+
+---
+
+# 🚀 Profile Views
+
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=NoorAzam-1&label=Profile%20Views&color=0e75b6&style=for-the-badge" 
+  />
+</p>
 
 # ✨ Developer Quote
 
