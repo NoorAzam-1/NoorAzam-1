@@ -83,15 +83,7 @@ React.js, Next.js, Javascript, TypeScript, Node.js, Express.js, MongoDB, Mongoos
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=NoorAzam-1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1&column=8" 
-  />
-</p>
-
----
 # 📈 Contribution Graph
 
 <p align="center">
