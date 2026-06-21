@@ -15,7 +15,7 @@ MERN Stack Developer | Next.js Developer | TypeScript Enthusiast
 💻 Passionate Full Stack MERN Developer from Delhi  
 🎓 MCA Persuing from IGNOU  
 ⚡ Skilled in building responsive and scalable web applications  
-🚀 Currently learning advanced backend development & authentication systems  
+🚀 Currently learning advanced backend development & TypeScript  
 🛠️ Love working with React, Next.js, TypeScript, Node.js & MongoDB  
 📚 Always exploring new technologies and improving problem-solving skills  
 🎯 Goal: Become a professional Full Stack Developer & build impactful products
