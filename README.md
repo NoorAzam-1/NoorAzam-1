@@ -84,8 +84,6 @@ React.js, Next.js, Javascript, TypeScript, Node.js, Express.js, MongoDB, Mongoos
 ---
 
 
-# 📈 Contribution Graph
-
 # 📈 GitHub Analytics
 <p align="">
   <img src="https://github-profile-trophy-unserori.vercel.app/?username=NoorAzam-1&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1&column=7&rank=A,B,C,S,SS,SSS" />
@@ -98,7 +96,7 @@ React.js, Next.js, Javascript, TypeScript, Node.js, Express.js, MongoDB, Mongoos
     </td>
     <td>
       <img
-        src="https://raw.githubusercontent.com/NoorAzam-1/NoorAzam-1/output/activity-graph.svg"
+        src="https://raw.githubusercontent.com/NoorAzam-1/output/activity-graph.svg"
         height="125"
         alt="GitHub Activity Graph"
       />
