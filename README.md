@@ -86,14 +86,25 @@ React.js, Next.js, Javascript, TypeScript, Node.js, Express.js, MongoDB, Mongoos
 
 # 📈 Contribution Graph
 
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=NoorAzam-1&theme=tokyo-night&hide_border=true" 
-  />
+# 📈 GitHub Analytics
+<p align="">
+  <img src="https://github-profile-trophy-unserori.vercel.app/?username=NoorAzam-1&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1&column=7&rank=A,B,C,S,SS,SSS" />
 </p>
 
----
-
+<table align="" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+       <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=NoorAzam-1&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="125"/>
+    </td>
+    <td>
+      <img
+        src="https://raw.githubusercontent.com/NoorAzam-1/NoorAzam-1/output/activity-graph.svg"
+        height="125"
+        alt="GitHub Activity Graph"
+      />
+    </td>
+  </tr>
+</table>
 # ✨ Developer Quote
 
 > “Consistency + Learning + Practice = Growth 🚀”
