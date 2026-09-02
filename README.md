@@ -99,7 +99,7 @@ React.js, Next.js, Javascript, TypeScript, Node.js, Express.js, MongoDB, Mongoos
      <td>
       <img
         src="https://raw.githubusercontent.com/NoorAzam-1/NoorAzam-1/output/activity-graph.svg"
-        height="125"
+        height="425"
         alt="GitHub Activity Graph"
       />
     </td>
