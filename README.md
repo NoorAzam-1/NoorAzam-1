@@ -25,10 +25,6 @@ MERN Stack Developer | Next.js Developer | TypeScript Enthusiast
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/NoorAzam-1">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 <a href="https://linkedin.com/in/noor-azam786" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
