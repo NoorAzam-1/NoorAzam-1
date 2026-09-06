@@ -70,7 +70,7 @@ React.js, Next.js, Javascript, TypeScript, Node.js, Express.js, MongoDB, Mongoos
 
 # 📚 Currently Learning
 
-- Advanced Authentication Systems
+- Advanced Authentication System
 - Redux Saga Deep Dive
 - Backend Architecture
 - Web Socket
