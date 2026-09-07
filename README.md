@@ -91,15 +91,6 @@ React.js, Next.js, Javascript, TypeScript, Node.js, Express.js, MongoDB, Mongoos
        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=NoorAzam-1&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="125"/>
     </td>
   </tr>
-  <tr>
-     <td>
-      <img
-        src="https://raw.githubusercontent.com/NoorAzam-1/NoorAzam-1/output/activity-graph.svg"
-        height="425"
-        alt="GitHub Activity Graph"
-      />
-    </td>
-  </tr>
 </table>
 # ✨ Developer Quote
 
